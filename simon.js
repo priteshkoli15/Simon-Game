@@ -1,3 +1,4 @@
+// Javascript logic for simon
 let btns = ["yellow" , "red" , "purple", "green"];
 
 let gameseq= [];
